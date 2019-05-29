@@ -1,3 +1,4 @@
 this is my first git cmds
 into repo
 by org
+done the changes throuhg github
